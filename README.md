@@ -1,2 +1,2 @@
 # SQL-codes
-Over here there is stores mySql code
+Over here i store mySql codes
